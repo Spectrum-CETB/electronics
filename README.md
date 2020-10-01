@@ -2,10 +2,18 @@
 
 ## Blogs
 [Hackaday](https://hackaday.com/)
+
 [bunniestudios.com](https://www.bunniestudios.com/)
+
 [Bald Engineer](https://www.baldengineer.com/)
+
 [Rheingold Heavy](https://rheingoldheavy.com/)
+
 [Hackster.io](https://www.hackster.io/news)
+
+[Arduino Blogs](https://blog.arduino.cc/)
+
+[Raspberry Pi Blog](https://www.raspberrypi.org/blog/)
 
 ## Videos
 [EEVblog](https://www.youtube.com/user/EEVblog)
